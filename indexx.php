@@ -4,7 +4,7 @@ Welcome
 <body>
 <?php
   print `date`;
-echo "<img src = '' , width='450' , height='500' />";
+<img src = "https://d36f9v5251ufzx.cloudfront.net/Friends.jpg" , width='450' , height='500' />;
 ?>
 </body>
 </html>
